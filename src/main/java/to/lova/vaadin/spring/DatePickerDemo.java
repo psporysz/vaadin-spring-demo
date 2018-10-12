@@ -19,7 +19,7 @@ public class DatePickerDemo extends VerticalLayout {
 
     private final DatePicker datePicker = new DatePicker();
 
-    private ListBox<Locale> localeSelector = new ListBox<Locale>();
+    private ListBox<Locale> localeSelector = new ListBox<>();
 
     public DatePickerDemo(I18NProvider i18nProvider) {
         this.add(new H1("Date Picker"));
