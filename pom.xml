@@ -121,5 +121,10 @@
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-combo-box-flow</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.devskiller</groupId>
+            <artifactId>jfairy</artifactId>
+            <version>0.6.2</version>
+        </dependency>
     </dependencies>
 </project>
